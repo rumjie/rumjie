@@ -2,9 +2,8 @@
 
 
 - 👋 Hi, I’m Jieun park
-- 💉 Worked as project manager in bio industry 
-- 👀 I’m interested in chemistry, drum, yoga, improving my skills and dive into learning new things
-- 🌱 I’m currently learning Python, SQL to be a data scientist
+- 🖥️ Working as a data scientist in Autonomous Driving team
+- 👀 I’m interested in Computer Vision, Career acceleration, drum, yoga, improving my skills and dive into learning new things
 - 📫 Please contact me via mail - jieun.park.ko@gmail.com, happy to have a new connection! 
 - 🖋 You can visit my blog to see what I'v learned & done on [Tistory blog](https://rum-j.tistory.com/)
 
@@ -13,7 +12,8 @@
 
 ---
 ## Career
-2023.01 ~ AIMMO dataset 개발자 (data scientist)
+2023.01 ~     AIMMO 자율주행 dataset 개발자 (data scientist)
+2019.10 ~ 2022.03 Celltrion PFS CMO project manager
 
 ---
 
