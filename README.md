@@ -12,14 +12,14 @@
 
 ---
 ## Career
-2023.01 ~     AIMMO 자율주행 dataset 개발자 (data scientist) <br>
+2023.01 ~ present AIMMO 자율주행 dataset 개발자 (data scientist) <br>
 2019.10 ~ 2022.03 Celltrion PFS CMO project manager
 
 ---
 
 ## Educations 교육
 
-2022.09 ~ Data scientist Study 5기 러너/ 가짜연구소 Pseudo Lab  아카데미 프로그램  <br>
+2022.09 ~ 2023.03 Data scientist Study 5기 러너 / 가짜연구소 Pseudo Lab  아카데미 프로그램  <br>
 2022.04 ~ 2022.12 이어드림스쿨 2기 / 중소벤처기업진흥공단 <br>
 2022.07 ~ 2022.08 LG Aimers 교육 이수 
 
