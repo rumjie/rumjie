@@ -12,7 +12,8 @@
 
 ---
 ## Career
-2023.01 ~ present AIMMO 자율주행 dataset 개발자 (data scientist) <br>
+2023.12 ~ present AIMMO R&D group Research Engineer <br>
+2023.01 ~ 2023.11 AIMMO 자율주행 dataset 개발자 (data scientist) <br>
 2019.10 ~ 2022.03 Celltrion PFS CMO project manager
 
 ---
